@@ -1,0 +1,1 @@
+This is a meme generator built alongside Scrimba's React tutorial
